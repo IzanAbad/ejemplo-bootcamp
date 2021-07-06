@@ -1,2 +1,3 @@
 # ejemplo-bootcamp
-Descripcion
+Descripcion del ejemplo.
+Es una descripcion de ejemplo.
